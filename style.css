@@ -1,0 +1,52 @@
+.container {
+  max-width: 750px;
+}
+
+.jumbotron {
+  text-align: center;
+  box-shadow: 0 0 3px black;
+  margin-top: 20px;
+  background-color: #C8835A;
+}
+
+span.glyphicon {
+    font-size: 2em;
+}
+
+footer {
+  text-align: center;
+  border-top: 1px solid #CCCCCC;
+  padding-top: 10px;
+  margin-top: 40px;
+}
+
+i {
+  color: #C8835A;
+}
+
+body {
+  background-color: #552000;
+}
+
+p {
+  color: #342424;
+}
+
+h3 {
+  color: #CCCCCC;
+}
+
+.lead {
+  color: #342424;
+}
+
+h1 {
+  color: #000508
+}
+
+.row {
+  background-color: #C8835A;
+  border-radius: 6px;
+  box-shadow: 0 0 3px black;
+  padding-bottom: 16px;
+}
